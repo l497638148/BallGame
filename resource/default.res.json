@@ -1,0 +1,405 @@
+{
+	"groups": [
+		{
+			"keys": "description_json,buttonDefault_right_png,buttonDefault_top_png,buttonDefault_topleft_png,buttonDefault_topright_png,buttonSelected_png,buttonSelected_bottom_png,buttonSelected_bottomleft_png,buttonSelected_bottomright_png,buttonSelected_left_png,buttonSelected_mid_png,buttonSelected_right_png,buttonSelected_top_png,buttonSelected_topleft_png,buttonSelected_topright_png,element_blue_diamond_png,element_blue_diamond_glossy_png,element_blue_polygon_png,element_blue_polygon_glossy_png,element_blue_rectangle_png,element_blue_rectangle_glossy_png,element_blue_square_png,element_blue_square_glossy_png,element_green_diamond_png,element_green_diamond_glossy_png,element_green_polygon_png,element_green_polygon_glossy_png,element_green_rectangle_png,element_green_rectangle_glossy_png,element_green_square_png,element_green_square_glossy_png,element_grey_diamond_png,element_grey_diamond_glossy_png,element_grey_polygon_png,element_grey_polygon_glossy_png,element_grey_rectangle_png,element_grey_rectangle_glossy_png,element_grey_square_png,element_grey_square_glossy_png,element_purple_cube_glossy_png,element_purple_diamond_png,element_purple_diamond_glossy_png,element_purple_polygon_png,element_purple_polygon_glossy_png,element_purple_rectangle_png,element_purple_rectangle_glossy_png,element_purple_square_png,element_red_diamond_png,element_red_diamond_glossy_png,element_red_polygon_png,element_red_polygon_glossy_png,element_red_rectangle_png,element_red_rectangle_glossy_png,element_red_square_png,element_red_square_glossy_png,element_yellow_diamond_png,element_yellow_diamond_glossy_png,element_yellow_polygon_png,element_yellow_polygon_glossy_png,element_yellow_rectangle_png,element_yellow_rectangle_glossy_png,element_yellow_square_png,element_yellow_square_glossy_png,paddleBlu_png,paddleRed_png,particleCartoonStar_png,particleSmallStar_png,particleStar_png,selectorA_png,selectorB_png,selectorC_png,ballBlue_png,ballGrey_png,buttonDefault_png,buttonDefault_bottom_png,buttonDefault_bottomleft_png,buttonDefault_bottomright_png,buttonDefault_left_png,buttonDefault_mid_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"name": "description_json",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "buttonDefault_right_png",
+			"type": "image",
+			"url": "assets/buttonDefault_right.png"
+		},
+		{
+			"name": "buttonDefault_top_png",
+			"type": "image",
+			"url": "assets/buttonDefault_top.png"
+		},
+		{
+			"name": "buttonDefault_topleft_png",
+			"type": "image",
+			"url": "assets/buttonDefault_topleft.png"
+		},
+		{
+			"name": "buttonDefault_topright_png",
+			"type": "image",
+			"url": "assets/buttonDefault_topright.png"
+		},
+		{
+			"name": "buttonSelected_png",
+			"type": "image",
+			"url": "assets/buttonSelected.png"
+		},
+		{
+			"name": "buttonSelected_bottom_png",
+			"type": "image",
+			"url": "assets/buttonSelected_bottom.png"
+		},
+		{
+			"name": "buttonSelected_bottomleft_png",
+			"type": "image",
+			"url": "assets/buttonSelected_bottomleft.png"
+		},
+		{
+			"name": "buttonSelected_bottomright_png",
+			"type": "image",
+			"url": "assets/buttonSelected_bottomright.png"
+		},
+		{
+			"name": "buttonSelected_left_png",
+			"type": "image",
+			"url": "assets/buttonSelected_left.png"
+		},
+		{
+			"name": "buttonSelected_mid_png",
+			"type": "image",
+			"url": "assets/buttonSelected_mid.png"
+		},
+		{
+			"name": "buttonSelected_right_png",
+			"type": "image",
+			"url": "assets/buttonSelected_right.png"
+		},
+		{
+			"name": "buttonSelected_top_png",
+			"type": "image",
+			"url": "assets/buttonSelected_top.png"
+		},
+		{
+			"name": "buttonSelected_topleft_png",
+			"type": "image",
+			"url": "assets/buttonSelected_topleft.png"
+		},
+		{
+			"name": "buttonSelected_topright_png",
+			"type": "image",
+			"url": "assets/buttonSelected_topright.png"
+		},
+		{
+			"name": "element_blue_diamond_png",
+			"type": "image",
+			"url": "assets/element_blue_diamond.png"
+		},
+		{
+			"name": "element_blue_diamond_glossy_png",
+			"type": "image",
+			"url": "assets/element_blue_diamond_glossy.png"
+		},
+		{
+			"name": "element_blue_polygon_png",
+			"type": "image",
+			"url": "assets/element_blue_polygon.png"
+		},
+		{
+			"name": "element_blue_polygon_glossy_png",
+			"type": "image",
+			"url": "assets/element_blue_polygon_glossy.png"
+		},
+		{
+			"name": "element_blue_rectangle_png",
+			"type": "image",
+			"url": "assets/element_blue_rectangle.png"
+		},
+		{
+			"name": "element_blue_rectangle_glossy_png",
+			"type": "image",
+			"url": "assets/element_blue_rectangle_glossy.png"
+		},
+		{
+			"name": "element_blue_square_png",
+			"type": "image",
+			"url": "assets/element_blue_square.png"
+		},
+		{
+			"name": "element_blue_square_glossy_png",
+			"type": "image",
+			"url": "assets/element_blue_square_glossy.png"
+		},
+		{
+			"name": "element_green_diamond_png",
+			"type": "image",
+			"url": "assets/element_green_diamond.png"
+		},
+		{
+			"name": "element_green_diamond_glossy_png",
+			"type": "image",
+			"url": "assets/element_green_diamond_glossy.png"
+		},
+		{
+			"name": "element_green_polygon_png",
+			"type": "image",
+			"url": "assets/element_green_polygon.png"
+		},
+		{
+			"name": "element_green_polygon_glossy_png",
+			"type": "image",
+			"url": "assets/element_green_polygon_glossy.png"
+		},
+		{
+			"name": "element_green_rectangle_png",
+			"type": "image",
+			"url": "assets/element_green_rectangle.png"
+		},
+		{
+			"name": "element_green_rectangle_glossy_png",
+			"type": "image",
+			"url": "assets/element_green_rectangle_glossy.png"
+		},
+		{
+			"name": "element_green_square_png",
+			"type": "image",
+			"url": "assets/element_green_square.png"
+		},
+		{
+			"name": "element_green_square_glossy_png",
+			"type": "image",
+			"url": "assets/element_green_square_glossy.png"
+		},
+		{
+			"name": "element_grey_diamond_png",
+			"type": "image",
+			"url": "assets/element_grey_diamond.png"
+		},
+		{
+			"name": "element_grey_diamond_glossy_png",
+			"type": "image",
+			"url": "assets/element_grey_diamond_glossy.png"
+		},
+		{
+			"name": "element_grey_polygon_png",
+			"type": "image",
+			"url": "assets/element_grey_polygon.png"
+		},
+		{
+			"name": "element_grey_polygon_glossy_png",
+			"type": "image",
+			"url": "assets/element_grey_polygon_glossy.png"
+		},
+		{
+			"name": "element_grey_rectangle_png",
+			"type": "image",
+			"url": "assets/element_grey_rectangle.png"
+		},
+		{
+			"name": "element_grey_rectangle_glossy_png",
+			"type": "image",
+			"url": "assets/element_grey_rectangle_glossy.png"
+		},
+		{
+			"name": "element_grey_square_png",
+			"type": "image",
+			"url": "assets/element_grey_square.png"
+		},
+		{
+			"name": "element_grey_square_glossy_png",
+			"type": "image",
+			"url": "assets/element_grey_square_glossy.png"
+		},
+		{
+			"name": "element_purple_cube_glossy_png",
+			"type": "image",
+			"url": "assets/element_purple_cube_glossy.png"
+		},
+		{
+			"name": "element_purple_diamond_png",
+			"type": "image",
+			"url": "assets/element_purple_diamond.png"
+		},
+		{
+			"name": "element_purple_diamond_glossy_png",
+			"type": "image",
+			"url": "assets/element_purple_diamond_glossy.png"
+		},
+		{
+			"name": "element_purple_polygon_png",
+			"type": "image",
+			"url": "assets/element_purple_polygon.png"
+		},
+		{
+			"name": "element_purple_polygon_glossy_png",
+			"type": "image",
+			"url": "assets/element_purple_polygon_glossy.png"
+		},
+		{
+			"name": "element_purple_rectangle_png",
+			"type": "image",
+			"url": "assets/element_purple_rectangle.png"
+		},
+		{
+			"name": "element_purple_rectangle_glossy_png",
+			"type": "image",
+			"url": "assets/element_purple_rectangle_glossy.png"
+		},
+		{
+			"name": "element_purple_square_png",
+			"type": "image",
+			"url": "assets/element_purple_square.png"
+		},
+		{
+			"name": "element_red_diamond_png",
+			"type": "image",
+			"url": "assets/element_red_diamond.png"
+		},
+		{
+			"name": "element_red_diamond_glossy_png",
+			"type": "image",
+			"url": "assets/element_red_diamond_glossy.png"
+		},
+		{
+			"name": "element_red_polygon_png",
+			"type": "image",
+			"url": "assets/element_red_polygon.png"
+		},
+		{
+			"name": "element_red_polygon_glossy_png",
+			"type": "image",
+			"url": "assets/element_red_polygon_glossy.png"
+		},
+		{
+			"name": "element_red_rectangle_png",
+			"type": "image",
+			"url": "assets/element_red_rectangle.png"
+		},
+		{
+			"name": "element_red_rectangle_glossy_png",
+			"type": "image",
+			"url": "assets/element_red_rectangle_glossy.png"
+		},
+		{
+			"name": "element_red_square_png",
+			"type": "image",
+			"url": "assets/element_red_square.png"
+		},
+		{
+			"name": "element_red_square_glossy_png",
+			"type": "image",
+			"url": "assets/element_red_square_glossy.png"
+		},
+		{
+			"name": "element_yellow_diamond_png",
+			"type": "image",
+			"url": "assets/element_yellow_diamond.png"
+		},
+		{
+			"name": "element_yellow_diamond_glossy_png",
+			"type": "image",
+			"url": "assets/element_yellow_diamond_glossy.png"
+		},
+		{
+			"name": "element_yellow_polygon_png",
+			"type": "image",
+			"url": "assets/element_yellow_polygon.png"
+		},
+		{
+			"name": "element_yellow_polygon_glossy_png",
+			"type": "image",
+			"url": "assets/element_yellow_polygon_glossy.png"
+		},
+		{
+			"name": "element_yellow_rectangle_png",
+			"type": "image",
+			"url": "assets/element_yellow_rectangle.png"
+		},
+		{
+			"name": "element_yellow_rectangle_glossy_png",
+			"type": "image",
+			"url": "assets/element_yellow_rectangle_glossy.png"
+		},
+		{
+			"name": "element_yellow_square_png",
+			"type": "image",
+			"url": "assets/element_yellow_square.png"
+		},
+		{
+			"name": "element_yellow_square_glossy_png",
+			"type": "image",
+			"url": "assets/element_yellow_square_glossy.png"
+		},
+		{
+			"name": "paddleBlu_png",
+			"type": "image",
+			"url": "assets/paddleBlu.png"
+		},
+		{
+			"name": "paddleRed_png",
+			"type": "image",
+			"url": "assets/paddleRed.png"
+		},
+		{
+			"name": "particleCartoonStar_png",
+			"type": "image",
+			"url": "assets/particleCartoonStar.png"
+		},
+		{
+			"name": "particleSmallStar_png",
+			"type": "image",
+			"url": "assets/particleSmallStar.png"
+		},
+		{
+			"name": "particleStar_png",
+			"type": "image",
+			"url": "assets/particleStar.png"
+		},
+		{
+			"name": "selectorA_png",
+			"type": "image",
+			"url": "assets/selectorA.png"
+		},
+		{
+			"name": "selectorB_png",
+			"type": "image",
+			"url": "assets/selectorB.png"
+		},
+		{
+			"name": "selectorC_png",
+			"type": "image",
+			"url": "assets/selectorC.png"
+		},
+		{
+			"name": "ballBlue_png",
+			"type": "image",
+			"url": "assets/ballBlue.png"
+		},
+		{
+			"name": "ballGrey_png",
+			"type": "image",
+			"url": "assets/ballGrey.png"
+		},
+		{
+			"name": "buttonDefault_png",
+			"type": "image",
+			"url": "assets/buttonDefault.png"
+		},
+		{
+			"name": "buttonDefault_bottom_png",
+			"type": "image",
+			"url": "assets/buttonDefault_bottom.png"
+		},
+		{
+			"name": "buttonDefault_bottomleft_png",
+			"type": "image",
+			"url": "assets/buttonDefault_bottomleft.png"
+		},
+		{
+			"name": "buttonDefault_bottomright_png",
+			"type": "image",
+			"url": "assets/buttonDefault_bottomright.png"
+		},
+		{
+			"name": "buttonDefault_left_png",
+			"type": "image",
+			"url": "assets/buttonDefault_left.png"
+		},
+		{
+			"name": "buttonDefault_mid_png",
+			"type": "image",
+			"url": "assets/buttonDefault_mid.png"
+		}
+	]
+}
