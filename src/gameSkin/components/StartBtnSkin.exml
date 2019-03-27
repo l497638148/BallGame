@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="StartBtnSkin" width="100" height="30" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Button id="btn" label="" width="100" height="30" enabled="true" verticalCenter="0" horizontalCenter="0">
+		<e:skinName>
+			<e:Skin states="up,down,disabled">
+			<e:Image width="100%" height="100%" source="file:///d%3A/work/Projects/newPro/resource/assets/buttonDefault.png" source.down="file:///d%3A/work/Projects/newPro/resource/assets/buttonSelected.png"/>
+			<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+			</e:Skin>
+		</e:skinName>
+	</e:Button>
+	<e:Label id="label" text="开始游戏" y="0" width="100" height="30" fontFamily="DFKai-SB" horizontalCenter="0" textColor="0x666262" italic="true" bold="true" size="20" textAlign="center" verticalAlign="middle"/>
+</e:Skin>

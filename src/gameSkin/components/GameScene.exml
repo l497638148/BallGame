@@ -1,0 +1,15 @@
+ visible="false" visible="false" anchorOffsetY="39" anchorOffsetX="27" y="5" x="0"
+							<e:Group xmlns:e="http://ns.egret.com/eui"/> y="5" x="0"
+						<e:Group>
+						</e:Skin> id="yellowIcon" visible="false" visible="false" id="redIcon" id="greyNum" id="yellowNum" id="greenNum" id="gNum" id="redNum" textColor="0xf73d3d"
+					<e:Label xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" text="12345" x="329" y="9" size="18" textColor="0xB6EA64">
+					</e:Skin> textColor="0xb6ea64"
+				<e:Label text="12345" x="179" y="9" size="18" textColor="0xF9C657">
+				</e:Skin> textColor="0xf9c657"
+			<e:Label id="btnLabel" xmlns:e="http://ns.egret.com/eui" text="12345" x="34" y="5" size="18" textColor="0xD8D2D2">
+			</e:Skin> textColor="0x7f7979" size="22" y="5" x="36"
+		<e:Label id="GreyIcon" text="Label">
+		</e:Skin> scaleY="0.5" scaleX="0.5" y="7" x="407"
+	<e:Image id="GreenIcon" xmlns:e="http://ns.egret.com/eui" source="element_red_diamond_glossy_png">
+	</e:Skin>>
+</e:Skin> source="element_yellow_diamond_glossy_png"element_yellow_diamond_glossy_png
